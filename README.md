@@ -71,3 +71,10 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 
 # frontend
+ this is git 
+ repo https://github.com/Samriti-Sharma22/frontend
+ composer insatll 
+ clone the project
+ go to product option on header 
+ add product to item bu clicking add to cart
+ view your cart
